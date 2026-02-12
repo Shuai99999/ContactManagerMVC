@@ -1,5 +1,6 @@
-The Contact Manager application is a web-based system developed using ASP.NET Core MVC and Entity Framework Core. The purpose of this project is to demonstrate how the Model-View-Controller (MVC) design pattern can be used to create a structured, maintainable, and fully functional web application.
-This application allows users to manage contact information by adding, editing, viewing, and deleting contacts stored in a database. Through this project, important concepts such as MVC architecture, database integration, validation, and CRUD operations were applied in a real-world scenario.
+The Contact Manager application is a web-based system developed using ASP.NET Core MVC, Entity Framework Core, and Microsoft SQL Server. The purpose of this project is to demonstrate how the Model-View-Controller (MVC) design pattern can be used to create a structured, maintainable, and fully functional web application.
+
+This application allows users to manage contact information by adding, editing, viewing, and deleting contacts stored in a SQL Server database. Through this project, important concepts such as MVC architecture, database integration with SQL Server, data validation, and CRUD operations were applied in a real-world scenario.
 
 <img width="1917" height="1026" alt="1d3096f2d43a7e3d43d72a6bd1742573" src="https://github.com/user-attachments/assets/d05b72dc-ba60-4380-a2ec-59f57b9cfd51" />
 
